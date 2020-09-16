@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\task2random\task2random\main.cpp(29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Task2Random.vcxproj -> D:\Task2Random\Debug\Task2Random.exe
+  Task2Random.vcxproj -> D:\Task2Random\Debug\Task2Random.pdb (Partial PDB)
